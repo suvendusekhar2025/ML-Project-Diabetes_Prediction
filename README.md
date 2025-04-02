@@ -1,5 +1,5 @@
 # ML-Project-Diabetes_Prediction
-Here’s a well-structured and detailed description of your diabetes prediction project using machine learning:  
+Here’s a well-structured and detailed description of the diabetes prediction project using machine learning:  
 
 ---
 
